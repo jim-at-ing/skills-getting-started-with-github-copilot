@@ -1,5 +1,4 @@
-git checkout -b accelerate-with-copilotgit checkout -b accelerate-with-copilotgit switch -c accelerate-with-copilotgit switch -c accelerategit switch -c accelerategit switch -c accelerate"""
-High School Management System API
+"""High School Management System API.
 
 A super simple FastAPI application that allows students to view and sign up
 for extracurricular activities at Mergington High School.
